@@ -1,6 +1,7 @@
 # A Free Audio Plugin for Tick Counter
 
-[Tick Counter](http://tickcounterplugin.com) is a flexible countdown system. It's based on a core counter that can be extended with plugins.
+[Tick Counter](http://tickcounterplugin.com) is a responsive and flexible countdown system. It's based on a core counter that can be extended with plugins.
+
 
 ## Installation
 
@@ -26,4 +27,4 @@
 </div>
 ```
 
-For more info and an example implementation visit the [Boom! documentation](http://tickcounterplugin.com/boom).
+For more info and an example implementation visit the [Boom! documentation](http://tickcounterplugin.com/docs/#boom).
