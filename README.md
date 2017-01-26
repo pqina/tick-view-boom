@@ -14,7 +14,7 @@
 
 <!-- tick counters here -->
 
-<script src="tick.view.boom.global.js">
+<script src="tick.view.boom.global.js"></script>
 <!-- load tick core after loading boom view -->
 ```
 
@@ -25,4 +25,4 @@
 </div>
 ```
 
-For more information and an example visit the [Boom documentation](http://tickcounterplugin.com/boom).
+For more info and an example implementation visit the [Boom documentation](http://tickcounterplugin.com/boom).
