@@ -4,9 +4,9 @@
 
 ## Installation
 
-1. Download the appropriate files for your project.
+1. [Download the package](https://github.com/pqina/tick-view-boom/archive/master.zip) and select the appropriate files for your project.
 
-2. Embed scripts and styles on page.
+2. Embed scripts and styles on your web page.
 
 ```html
 <!-- load tick core styles before loading boom styles -->
@@ -19,10 +19,11 @@
 ```
 
 3. Add boom view somewhere within your Tick counter.
+
 ```html
 <div class="tick">
     <div data-view="boom"></div>
 </div>
 ```
 
-For more info and an example implementation visit the [Boom documentation](http://tickcounterplugin.com/boom).
+For more info and an example implementation visit the [Boom! documentation](http://tickcounterplugin.com/boom).
