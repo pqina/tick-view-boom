@@ -27,4 +27,4 @@
 </div>
 ```
 
-For more info and an example implementation visit the [Boom! documentation](http://tickcounterplugin.com/docs/#boom).
+For more info and an example implementation visit the [Boom! documentation](http://tickcounterplugin.com/docs/#boom)
